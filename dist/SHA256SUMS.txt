@@ -1,0 +1,2 @@
+4cdc1aaf81540e928eed4ad8ebafe142638fc9968c9520046d90812baccfdfdb  Chinese_chi.ptl
+8f5587324c7efdb821b31678c3c7efb8336359af32edfb588614cfef8df84720  Chinese_chi.ts

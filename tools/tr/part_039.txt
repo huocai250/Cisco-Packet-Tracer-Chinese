@@ -1,0 +1,59 @@
+4388	<p align="right">计划</p>
+4454	<p align="right">路由器 IP</p>
+4570	<p align="right">已应用 PC</p>
+4767	<p align="right"><b>防火墙</b></p>
+4768	<p align="right">Traceroute 测试</p>
+4818	<p align="right">应用程序名称</p>
+4849	<p align="right"><b>管理</b></p>
+4850	<p align="right"><b>Web 过滤</b></p>
+4888	<p align="right"><b>DHCP 服务器</b></p>
+4889	<p align="right"><b>诊断</b></p>
+4890	<p align="right">访问限制</p>
+4990	<p align="right"><b>本地网络</b></p>
+4991	<p align="right"><b>网络设置</b></p>
+4992	<p align="right">阻止的应用</p>
+5019	<p align="right"><b>互联网设置</b></p>
+5020	<p align="right">DHCP 服务器 \n\n设置</p>
+5056	<p align="right"><b>互联网过滤</b></p>
+5088	<p align="right"><b>出厂默认值</b></p>
+5089	<p align="right"><b>固件升级</b></p>
+5090	<p align="right"><b>无线网络</b></p>
+5137	<p align="right"><b>高级无线</b></p>
+5138	<p align="right"><b>无线安全</b></p>
+5139	<p align="right">互联网连接类型</p>
+5173	<p align="right"><b>路由器信息</b></p>
+5206	<p align="right"><b>无线 MAC 过滤</b></p>
+5207	<p align="right">MAC 地址<br>过滤列表</p>
+5239	<p align="right"><b>互联网\n\n连接</b></p>
+5240	<p align="right">按关键字屏蔽网站</p>
+5309	<html><head/><body><p>排序依据</p></body></html>
+5310	<p align="right"><b>单端口转发</b></p>
+5349	<p align="right"><b>基本无线设置</b></p>
+5378	<p align="center"><p align="right">Ping 测试</p></p>
+5379	<p align="right">按 URL 地址屏蔽网站</p>
+5634	<html><head/><body><p align="center">电子邮件</p></body></html>
+5824	<html><head/><body><p align="center">文件管理器</p></body></html>
+5912	<html><head/><body><p align="right">访问解析</p></body></html>
+5955	<html><head/><body><p align="center">蜂窝基站服务</p></body></html>
+6012	<html><head/><body><p align="right">手动添加客户端</p></body></html>
+6060	<html><head/><body><p align="right">客户端已被保留</p></body></html>
+6088	<html><head/><body><p align="center">PAP / CHAP 配置</p></body></html>
+6201	<html><head/><body><p align="right">从 DHCP 表中选择客户端</p></body></html>
+6288	<html><head/><body><p><span style=" font-weight:600;">PC 列表</span></p></body></html>
+6348	<html><head/><body><p><span style="font-weight:600;">DHCP 保留</span></p></body></html>
+6381	<html><head/><body><p><span style=" font-family:'Verdana';">MAC 地址</span></p></body></html>
+6458	<html><head/><body><p>以访客身份继续。访客用户最多可保存文件 3 次。</p></body></html>
+6535	<html><head/><body><p align="right"><span style=" font-family:'Verdana';">IP 地址</span></p></body></html>
+6596	<html><head/><body><p align="right"><span style=" font-family:'Verdana';">IP 地址范围</span></p></body></html>
+6608	, 序列号显示在配置选项卡下。<br><br><a href='http://setup.meraki.com/'>重试</a></font>
+6616	<html><head/><body><p><span style=" font-family:'Verdana'; font-weight:600;">DHCP 保留</span></p></body></html>
+6641	<html><head/><body><p align="right">可选设置<br/>(某些互联网服务提供商需要)</p></body></html>
+6830	<html><head/><body><p>警告: 将创建以项目名命名的目录。<br/>同名的任何目录或文件都将被删除。</p></body></html>
+6856	<html><head><css-login/></head><body><p><span class="login-sel-color1" style="">保持登录 </span><span class="login-sel-color1" >&nbsp;(3 个月)</span></p></body></html>
+6857	<html><head><css-login/></head><body><p><span class="login-sel-color4" style="font-familly:CiscoSansGlobal">不建议在公共或共享计算机上使用\n </span></p></body></html>\n
+6931	<html><head><css-login/></head><body><p><span class="login-sel-color1" style="font-size:16pt;">如果您单击 &quot;返回&quot;，您将回到上一屏幕并需要重新开始登录流程。</span></p></body></html>
+6942	<html><head/><body><p><span style=" font-size:14pt;">勾选此项将在接下来的 3 个月内跳过登录提示。 </span></p><p><span style=" font-size:14pt;">如果您想注销，请使用 文件 -&gt; 退出并注销</span></p></body></html>
+6964	<html><head><css-login/></head><body><p><span class="login-sel-color1" style=" font-size:10pt;">了解有关 </span><a href="marketing_uri"><span class="login-sel-color2" style=" font-size:11pt; text-decoration: underline;">网络技术学院</span></a></p></body></html>
+6969	<html><head><css-login/></head><body><p><a href="#"><span class="login-sel-color5" style="display:inline-block;text-decoration:none;text-align:center;"><img style="padding-top:5px;" src=":/Resources/images/login/icon-setting.svg"/>&nbsp;高级设置</span></a></p></body></html>
+6989	<html><head><css-login/></head><body><p><span class="login-sel-color1" style="font-size:16pt;">\n<strong>正在登录:</strong> 您的浏览器中已打开新窗口。 </span><span class="login-sel-color1"><br/></span><span class="login-sel-color1" style="font-size:16pt;">请使用您的凭据登录。</span></p></body></html>
+6714	<html><head/><body><p>注册 Cisco 网络技术学院，免费获取 Packet Tracer 和在线课程。</p></body></html>
