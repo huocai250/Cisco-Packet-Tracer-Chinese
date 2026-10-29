@@ -1,4 +1,8 @@
 {
   "CPDUListWindow": { "Fire": "发射" },
-  "CUserCreatedPDU": { "Fire": "发射" }
+  "CUserCreatedPDU": { "Fire": "发射" },
+  "CAdministrativeOptionsBase": {
+    "Black": "Black", "Red": "Red", "Green": "Green", "Blue": "Blue", "White": "White",
+    "Yellow": "Yellow", "Orange": "Orange", "Magenta": "Magenta", "Violet": "Violet", "Pink": "Pink"
+  }
 }

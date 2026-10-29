@@ -8957,7 +8957,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="3107"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="3186"/>
         <source>Black</source>
-        <translation>黑色</translation>
+        <translation>Black</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="2801"/>
@@ -8967,7 +8967,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="3112"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="3191"/>
         <source>Red</source>
-        <translation>红色</translation>
+        <translation>Red</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="2806"/>
@@ -8977,7 +8977,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="3117"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="3196"/>
         <source>Green</source>
-        <translation>绿色</translation>
+        <translation>Green</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="2811"/>
@@ -8987,7 +8987,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="3122"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="3201"/>
         <source>Blue</source>
-        <translation>蓝色</translation>
+        <translation>Blue</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="2816"/>
@@ -8998,7 +8998,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="3177"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="3181"/>
         <source>White</source>
-        <translation>白色</translation>
+        <translation>White</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="2821"/>
@@ -9008,7 +9008,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="3132"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="3206"/>
         <source>Yellow</source>
-        <translation>黄色</translation>
+        <translation>Yellow</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="2826"/>
@@ -9018,7 +9018,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="3137"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="3211"/>
         <source>Orange</source>
-        <translation>橙色</translation>
+        <translation>Orange</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="2831"/>
@@ -9028,7 +9028,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="3142"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="3216"/>
         <source>Magenta</source>
-        <translation>品红色</translation>
+        <translation>Magenta</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="2836"/>
@@ -9038,7 +9038,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="3147"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="3221"/>
         <source>Violet</source>
-        <translation>紫色</translation>
+        <translation>Violet</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="2841"/>
@@ -9048,7 +9048,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="3152"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="3226"/>
         <source>Pink</source>
-        <translation>粉色</translation>
+        <translation>Pink</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="2853"/>
